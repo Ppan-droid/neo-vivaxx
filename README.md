@@ -27,9 +27,6 @@ Estrutura de Arquivos:
       styles.css
   README.md
 
-Desenvolvimento
-O projeto seguiu o formato padrão, com a separação de estilos no arquivo styles.css e o uso de classes (como .container-flex e .card) para implementar layouts utilizando Flexbox no CSS3. As imagens foram incluídas com a tag alt descritiva, e toda a documentação, incluindo paleta e fontes, foi registrada no README.md
-
 Como abrir o projeto? Basta abrir o arquivo "index.html" no navegador.
 
 Checklist 
