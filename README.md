@@ -38,4 +38,4 @@ Checklist
 [x] Imagens otimizadas com "alt" descritivo 
 [x] README com papéis, paleta, fontes e decisões 
 [x] Site no ar (Github Pages, Vercel, etc.) 
-[ ] Vídeo de demonstração (até 1 minuto)
+[x] Vídeo de demonstração (até 1 minuto)
