@@ -6,12 +6,39 @@ Autores e Papéis: Dev 1 - Pedro Pessôa - Estrutura e Acessibilidade (HTML) Dev
 
 Identidade Visual
 
-Paleta de Cores: Azul Escuro – #1A237E Azul Médio – #3949AB Amarelo – #FDD835 Cinza Claro – #F5F5F5
+Paleta de Cores: 
+Laranja - #E69721
+Bege/branco - #E7E1dE
+Azul - #1A237E
+Preto - #000000
 
-Fontes (Google Fonts): Títulos: Textos:
+Fontes (Google Fonts):
+Títulos: Oswald (Aplicada a h1, h2, h3)
+Textos: Roboto (Aplicada ao body e textos gerais
 
-Estrutura de Arquivos: /projeto/ index.html sobre.html contato.html /assets/ /img/ /css/ styles.css README.md
+Estrutura de Arquivos: 
+/projeto/
+  index.html
+  sobre.html
+  contato.html
+  /assets/
+    /img/
+    /css/
+      styles.css
+  README.md
+
+Desenvolvimento
+O projeto seguiu o formato padrão, com a separação de estilos no arquivo styles.css e o uso de classes (como .container-flex e .card) para implementar layouts utilizando Flexbox no CSS3. As imagens foram incluídas com a tag alt descritiva, e toda a documentação, incluindo paleta e fontes, foi registrada no README.md
 
 Como abrir o projeto? Basta abrir o arquivo "index.html" no navegador.
 
-Checklist [x] 3 páginas mínimas (Home/Sobre/Contato) + links funcionando [x] "header", "nav", "main" e "footer" usados com propósito [x] Hero na página principal [x] Tabela simples presente [x] Paleta no ":root" (variáveis CSS) [x] Google Fonts [x] Imagens otimizadas com "alt" descritivo [x] README com papéis, paleta, fontes e decisões [ ] Site no ar (Github Pages, Vercel, etc.) [ ] Vídeo de demonstração (até 1 minuto)
+Checklist 
+[x] 3 páginas mínimas (Home/Sobre/Contato) + links funcionando 
+[x] "header", "nav", "main" e "footer" usados com propósito 
+[x] Hero na página principal [x] Tabela simples presente 
+[x] Paleta no ":root" (variáveis CSS) 
+[x] Google Fonts 
+[x] Imagens otimizadas com "alt" descritivo 
+[x] README com papéis, paleta, fontes e decisões 
+[x] Site no ar (Github Pages, Vercel, etc.) 
+[ ] Vídeo de demonstração (até 1 minuto)
