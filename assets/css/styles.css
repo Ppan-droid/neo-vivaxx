@@ -4,13 +4,14 @@ img{float: right;}
 table,tr,th{text-align: center;}
 
 header{padding: 1%;background-color: rgb(70, 64, 61);}
-nav{padding: 1%;background-color: rgb(104, 96, 92);display: flex; flex-direction: row; width: 100%; text-align: center;}
+nav{padding: 1%;background-color: rgb(104, 96, 92);display: flex; flex-direction: row; width: 100%; text-align: center; color: white;}
 footer{padding: 1%;background-color: rgb(104, 96, 92);display:block;width:  100%;height: 1%; font-size: smaller;  }
 body{font-size: larger; border: 5px;}
 img{float:left;}
 nav{float: left;}
 p,a{font-size: x-large;}
 a{display: inline-block;}
+
 
 .container-flex {
   display: flex;
@@ -36,6 +37,7 @@ a{display: inline-block;}
     flex-basis: 100%;
   }
 }
+
 
 
 
