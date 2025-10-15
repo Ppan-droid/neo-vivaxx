@@ -16,6 +16,7 @@ a{display: inline-block;}
   display: flex;
   flex-wrap: wrap; 
   gap: 20px; 
+  flex-direction: row;
 }
 
 .card {
@@ -35,6 +36,7 @@ a{display: inline-block;}
     flex-basis: 100%;
   }
 }
+
 
 
 
